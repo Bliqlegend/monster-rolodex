@@ -22,7 +22,6 @@ class App extends Component{
       <div className="App">
       <CardList monsters={this.state.monster}>
       </CardList>
-        
     </div>
     )
   }
