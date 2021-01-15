@@ -9,5 +9,3 @@ export const Card = (props) =>(
         <p><b>{props.monster.email}</b></p>
     </div>
 )
-
-// sadas
